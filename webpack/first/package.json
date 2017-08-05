@@ -1,0 +1,20 @@
+{
+  "name": "myfirstwebpack",
+  "version": "1.0.0",
+  "description": "my first webpack",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack -p"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nono1526/my-first-webpack.git"
+  },
+  "author": "Nono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nono1526/my-first-webpack/issues"
+  },
+  "homepage": "https://github.com/nono1526/my-first-webpack#readme"
+}
